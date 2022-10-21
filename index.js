@@ -1,0 +1,1 @@
+const questionContainerElement = document.getElementById("question-container");
